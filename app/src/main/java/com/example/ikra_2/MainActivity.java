@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private String[] array;
     private ArrayAdapter<String> adapter;
     private int category_ix;
+    int fff;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
